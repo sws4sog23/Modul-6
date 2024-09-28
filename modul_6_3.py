@@ -19,7 +19,7 @@ class Eagle:
 
 
 class Pegasus(Horse, Eagle):
-    pass
+
 
     def __init__(self):
         Horse.__init__(self)
